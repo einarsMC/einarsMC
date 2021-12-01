@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @einarsMC
-- 👀 I’m interested in learning how to code in Python
+- 👀 I’m interested in learning how to code in Python, also try to learn GitHub
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on things I've done
 
